@@ -27,7 +27,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=000000&lines=-%3E+Bots+Developer;-%3E+Web+Developer;-%3E+Graphic+Designer;-%3EYoutuber;-%3E+Music+Lover;-%3E+Programmer)](https://git.io/typing-svg)
 
     
-<h1> ɢɪᴛʜᴜʙ ᴀɴᴀʟʏᴛɪᴄs </h1>
+<h1> Mn BISHNOI </h1>
     
 [<img src="https://github-readme-stats.vercel.app/api?username=Abishnoi69&count_private=true&show_icons=true&theme=chartreuse-dark&custom_title=What%27s+the+craic?&include_all_commits=true&hide_border=true&bg_color=000000" width="49%">](https://github.com/Abishnoi69) [<img src="https://github-readme-streak-stats.herokuapp.com/?user=Abishnoi69&theme=chartreuse-dark&hide_border=True&bg_color=000000" width="49%">](https://github.com/Abishnoi69)
     
